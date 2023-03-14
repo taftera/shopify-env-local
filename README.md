@@ -16,9 +16,6 @@ Required Shopify App:
 
 First add the Theme Access app to the site. Then add the developer in question to it.
 
-![1](https://t1283332.p.clickup-attachments.com/t1283332/77308b5c-0888-4d05-bf75-eff0034922a4/Screenshot%202023-03-14%20at%2011.33.49.jpg)
-![2](https://t1283332.p.clickup-attachments.com/t1283332/a139be07-975b-4caa-adcc-3602b4a6c093/Screenshot%202023-03-14%20at%2011.33.58.jpg)
-
 The developer will get an email to "Get password", with this information we can create or `.env` file
 
 ```
